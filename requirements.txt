@@ -1,0 +1,12 @@
+gunicorn
+numpy
+flask
+flask-cors
+flask-wtf
+boto3
+Pillow
+tensorflow
+keras
+blinker
+sentry-sdk[flask]
+python-dotenv
